@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInUpOopApproach", "SignInUpOopApproach\SignInUpOopApproach.csproj", "{B6AA1B79-2555-4277-B690-F1466F84EFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AA1B79-2555-4277-B690-F1466F84EFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AA1B79-2555-4277-B690-F1466F84EFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AA1B79-2555-4277-B690-F1466F84EFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AA1B79-2555-4277-B690-F1466F84EFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44231F47-9C07-4C92-9E5F-48DC88BF63F5}
+	EndGlobalSection
+EndGlobal

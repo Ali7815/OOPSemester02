@@ -1,0 +1,14 @@
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.csproj.AssemblyReference.cache
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.csproj.CoreCompileInputs.cache
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.exe.config
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.exe
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.pdb
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.exe
+C:\Users\Digital Zone\source\repos\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.pdb
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.exe.config
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.exe
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\bin\Debug\Oops SigninUp.pdb
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.csproj.AssemblyReference.cache
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.csproj.CoreCompileInputs.cache
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.exe
+D:\Semester 2\Object Oriented Programming\Week 3\Oops SigninUp\Oops SigninUp\obj\Debug\Oops SigninUp.pdb

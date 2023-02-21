@@ -1,0 +1,7 @@
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\bin\Debug\SelfAsses.exe.config
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\bin\Debug\SelfAsses.exe
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\bin\Debug\SelfAsses.pdb
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\obj\Debug\SelfAsses.csproj.AssemblyReference.cache
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\obj\Debug\SelfAsses.csproj.CoreCompileInputs.cache
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\obj\Debug\SelfAsses.exe
+D:\Semester 2\Object Oriented Programming\Week 3\SelfAsses\SelfAsses\obj\Debug\SelfAsses.pdb
