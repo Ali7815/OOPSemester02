@@ -1,0 +1,7 @@
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\bin\Debug\Practice.exe.config
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\bin\Debug\Practice.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\bin\Debug\Practice.pdb
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\obj\Debug\Practice.exe
+D:\Study\Semester 2\Object Oriented Programming\Week 7\Practice\Practice\obj\Debug\Practice.pdb
