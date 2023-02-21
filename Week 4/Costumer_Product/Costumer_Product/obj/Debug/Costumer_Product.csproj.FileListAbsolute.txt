@@ -1,0 +1,7 @@
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\bin\Debug\Costumer_Product.exe.config
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\bin\Debug\Costumer_Product.exe
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\bin\Debug\Costumer_Product.pdb
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\obj\Debug\Costumer_Product.csproj.AssemblyReference.cache
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\obj\Debug\Costumer_Product.csproj.CoreCompileInputs.cache
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\obj\Debug\Costumer_Product.exe
+D:\Semester 2\Object Oriented Programming\Week 4\Costumer_Product\Costumer_Product\obj\Debug\Costumer_Product.pdb

@@ -1,0 +1,7 @@
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\bin\Debug\CRC_Card.exe.config
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\bin\Debug\CRC_Card.exe
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\bin\Debug\CRC_Card.pdb
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\obj\Debug\CRC_Card.csproj.AssemblyReference.cache
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\obj\Debug\CRC_Card.csproj.CoreCompileInputs.cache
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\obj\Debug\CRC_Card.exe
+D:\Semester 2\Object Oriented Programming\Week 4\CRC_Card\CRC_Card\obj\Debug\CRC_Card.pdb
